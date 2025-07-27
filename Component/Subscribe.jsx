@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FaArrowCircleLeft } from "react-icons/fa";
 import { FaArrowCircleRight } from "react-icons/fa";
-import SubscribeBanner from "./Subscribebanner";
+import SubscribeBanner from "./SubscribeBanner";
 import Deliver from "./Deliver";
 
 const Subscribe = () => {
